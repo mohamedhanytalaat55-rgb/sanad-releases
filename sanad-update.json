@@ -1,15 +1,10 @@
 {
-  "versionCode": 21,
-  "versionName": "1.7.2",
-  "apkUrl": "https://github.com/mohamedhanytalaat55-rgb/sanad-releases/releases/download/v1.7.2/1-SANAD-1.7.2.apk",
-  "sha256": "c33b6841d8cd1076b5034ba6ece4c0b3bf05ae1db3e990c898a368d20ed1bad1",
+  "versionCode": 22,
+  "versionName": "1.7.3",
+  "apkUrl": "https://github.com/mohamedhanytalaat55-rgb/sanad-releases/releases/download/v1.7.3/1-SANAD-1.7.3.apk",
+  "sha256": "0730afee108444b322048b10ce089745165acf394c40efbdc9f75e643fd97bef",
   "size": 17838582,
   "notes": [
-    "صوت القرآن يبدأ بسرعة مع رسالة خطأ وإعادة محاولة",
-    "المسبحة بالتناوب: كل ضغطة ذكر بالترتيب",
-    "الآيات والأدعية كاملة",
-    "قائمة الآية في الأسفل، علامة مكان الوقوف، وتصفح بالجزء والحزب والصفحة",
-    "تعابير الشخصية على حسب مشاعرك، وإصلاح قفزة الشاشة مع الكيبورد",
-    "الشات مابقاش يوعد بحفظ الاقتراحات أو بحاجات مش موجودة"
+    "عدّ مجهول لعدد المستخدمين: رقم عشوائي ونسخة التطبيق وتاريخ الفتح بس، وبتقدر توقفه من حسابي والإعدادات"
   ]
 }
